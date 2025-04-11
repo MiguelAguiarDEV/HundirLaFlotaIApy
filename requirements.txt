@@ -1,6 +1,10 @@
-fastapi==0.106.0
-uvicorn==0.25.0
-pydantic==2.6.0
-google-generativeai==0.7.0
-typing-extensions==4.9.0
-dotenv
+# --- START OF FILE requirements.txt ---
+
+fastapi
+uvicorn[standard]
+google-generativeai
+python-dotenv
+pydantic
+httpx
+
+# --- END OF FILE requirements.txt ---
