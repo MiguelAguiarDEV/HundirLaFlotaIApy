@@ -185,8 +185,6 @@ header p {
     background-color: var(--primary-color); /* Grid line color */
     border: 2px solid var(--primary-color);
     border-radius: 5px;
-    width: var(--board-dimension); /* Fixed width */
-    height: var(--board-dimension); /* Fixed height */
     position: relative; /* For overlay effects */
 }
 
